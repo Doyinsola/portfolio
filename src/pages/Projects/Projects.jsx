@@ -1,6 +1,6 @@
 function Projects() {
     return (
-        <main className="home">
+        <main className="projects">
         </main>
     )
 }

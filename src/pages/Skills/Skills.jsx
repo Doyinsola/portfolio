@@ -1,6 +1,6 @@
 function Skills() {
     return (
-        <main className="home">
+        <main className="skils">
         </main>
     )
 }
